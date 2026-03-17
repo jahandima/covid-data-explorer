@@ -1,8 +1,8 @@
-# 🦠 COVID-19 Data Explorer
+# COVID-19 Data Explorer
 
 Data analysis project exploring global COVID-19 trends using Python.
 
-## 📊 Charts & Insights
+## Charts & Insights
 1. **Top 10 Countries by Cases** — USA dominated with 84M cases
 2. **Global Daily Cases Over Time** — Omicron wave visible in early 2022
 3. **Death Rate by Country** — Yemen had 18% death rate
@@ -10,11 +10,11 @@ Data analysis project exploring global COVID-19 trends using Python.
 5. **Malaysia's COVID Journey** — Delta and Omicron waves clearly visible
 6. **Tests vs Cases Correlation** — More testing = more cases detected
 
-## 🛠 Tools Used
+## Tools Used
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
-## 📁 Dataset
-- Source: Kaggle — World COVID-19 Dataset
+## Dataset
+- Source: Kaggle — World COVID-19 Dataset by Joseph Assaker
 
-## 👤 Author
+## Author
 Beheter Jahan Hoque | BSc Data Science | Nilai University
