@@ -8,7 +8,7 @@ Data analysis project exploring global COVID-19 trends using Python.
 3. **Death Rate by Country** — Yemen had 18% death rate
 4. **Cases by Continent** — Europe highest, Africa likely underreported
 5. **Malaysia's COVID Journey** — Delta and Omicron waves clearly visible
-6. **Tests vs Cases Correlation** — More testing = more cases detected
+6. **Tests vs Cases Correlation** — More testing = more cases detected but China was a major outlier
 
 ## Tools Used
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
